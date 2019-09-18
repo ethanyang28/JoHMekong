@@ -23,6 +23,24 @@ Meaning of each column in the attribute table is same with that in the “Mekong
 Name->	Name of the ecosystem hotspot;
 Alphabet->	Same with the ecosystem hotspot alphabet shown in Figure 1 and Table S1.
 
-4. SWAT-agent-sub-boundary
+4. SWAT-agent-sub-boundary:
+GRIDCODE->	Necessary SWAT column;
+Subbasin->	Subbasin ID;
+Area->	Subbasin area (in m^2);
+Lat->	Centroid Latitude of the subbasin;
+Long_->	Centroid Longitude of the subbasin;
+Elev->	Mean elevation of the subbasin (in m);
+ElevMin->	Minimal elevation of the subbasin (in m);
+ElevMax->	Maximal elevation of the subbasin (in m);
+HydroID->	Necessary SWAT column;
+OutletID->	Necessary SWAT column;
+Agent_ID->	Agent ID;
+Agent_name->	Agent name;
 
-5. SWAT-mekong-river
+5. SWAT-mekong-river:
+ARCID->	Necessary SWAT column;
+GRID_CODE->	Necessary SWAT column;
+FROM_NODE->	Necessary SWAT column;
+TO_NODE->	Necessary SWAT column;
+Subbasin->	Necessary SWAT column;
+SubbasinR->	Necessary SWAT column;
