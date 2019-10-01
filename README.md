@@ -1,5 +1,8 @@
 # JoHMekong
-The repository is for shapefile data used in the Mekong River paper published in the Journal of Hydrology. 
+The repository is for shapefile data used in the Mekong River paper published in the Journal of Hydrology.
+
+Yang, J, Yang, Y. C. E., Chang, J., Zhang J. and Yao. J. 2019. Impact of Dam Development and Climate Change on Hydroecological Conditions and Natural Hazard Risk in the Mekong River Basin, Journal of Hydrology, 579:124177.
+https://www.sciencedirect.com/science/article/pii/S0022169419309126
 
 Dataset:
 1. Mekong-dams-baseline:
